@@ -1,0 +1,6 @@
+jekyll/**
+public/**
+hugout/**
+
+#mac files
+.DS_Store

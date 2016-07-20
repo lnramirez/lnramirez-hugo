@@ -1,0 +1,9 @@
+---
+contentdir: "content"
+layoutdir: "layouts"
+publishdir: "public"
+indexes:
+  category: "categories"
+baseurl: "http://lnramirez.github.io"
+title: "Bajoneando Blog"
+canonifyurls: true
