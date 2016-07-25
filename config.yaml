@@ -4,6 +4,19 @@ layoutdir: "layouts"
 publishdir: "public"
 indexes:
   category: "categories"
-baseurl: "http://lnramirez.github.io"
+baseurl: "https://lnramirez.github.io/"
 title: "Bajoneando Blog"
 canonifyurls: true
+googleAnalytics: UA-81286834-1
+
+
+params:
+  name: "Luis Ramirez Monterosa"
+  description: "Bajoneando Blog"
+  twitter: luisnramirez
+  iconFont: mono-social
+  bio: "Cyclist - Coffee Enthusiast - Functional Student"
+
+social:
+    twitter: https://www.twitter.com/luisnramirez
+    github: https://github.com/lnramirez
