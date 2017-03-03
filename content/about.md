@@ -2,7 +2,7 @@
 date = "2016-07-18T17:28:12-04:00"
 draft = false
 title = "About"
-
+hidden = true
 +++
 
 Bajonear is a salvadorean-spanish verb that you use to refer
