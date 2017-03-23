@@ -4,7 +4,7 @@ draft = "true"
 title = "The day you became a better developer"
 +++
 
-I didn't pass the phone interview. I was sad, frustrated and went full cognitive disonance. I thought the interviewer was a jerk, he had his facts wrong and I did an amazing interview so they were going to call me. It didn't happen.
+I didn't pass the phone interview. I was sad, frustrated and went full cognitive dissonance. I thought the interviewer was a jerk, he had his facts wrong and I did an amazing interview so they were going to call me. It didn't happen.
 
 After a couple of days of reiterating how it went, blow by blow, I realized that definitely I had made a fool of myself. It was basic object oriented programming questions and algorithms:
 
@@ -13,7 +13,7 @@ After a couple of days of reiterating how it went, blow by blow, I realized that
 * if you have 10 million numbers but you could only load 3 million in memory how could you find top 10 numbers?. *I didn't know how to even start.*
 * ok, how could you sort a list?. *A day before I read sometimes they ask that so I answered, you use quicksort then he asked me to implement it. I totally forgot.*
 
-I felt like a total failure and a charlatan. How can you say you are a developer for the last 10 years and can't even asnwer one of this questions?
+I felt like a total failure and a charlatan. How can you say you are a developer for the last 10 years and can't even answer one of these questions?
 
 Truth be told, most developers go winging it, why am I using this? what does it mean? who did this? is not something we all ask everyday. In Coders at Work [Siebel 2009] Guy Steele says that when the computer had 4,000 words of memory it was feasible for you to know everything about the machine, nowadays are you really going to know all the software that runs in your machine? are you going to do a core dump? I wouldn't think so. But you should know a few concepts behind it.
 

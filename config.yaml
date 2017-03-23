@@ -1,10 +1,11 @@
 ---
 contentdir: "content"
 layoutdir: "layouts"
-publishdir: "public"
+publishdir: "./../public"
 indexes:
   category: "categories"
-baseurl: "https://lnramirez.github.io/"
+baseurl: "https://www.bajoneando.com/"
+theme: hugo-cactus-theme
 title: "Bajoneando Blog"
 canonifyurls: true
 googleAnalytics: UA-81286834-1
