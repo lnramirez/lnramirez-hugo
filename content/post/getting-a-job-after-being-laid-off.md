@@ -1,5 +1,5 @@
 +++
-date = "2017-05-22T14:00:00-04:00"
+date = "2017-05-25T14:00:00-04:00"
 title = "Getting a job after being laid off is tough"
 
 +++
@@ -43,7 +43,8 @@ There are a couple of errors I made:
 
 * I had totally forgotten how to update a map in scala, instead of using `+` I used `put` which I'd say should not matter that of a much
 * get method on map returns you already an Option[T] but I used instead m.getOption, that doesn't exist
-* that ugly if else can be worked out with map getOrElse but it wouldn't be in tailrec so that'd depend on your trade off.
+* that ugly if else can be worked out with map getOrElse but it wouldn't be in tailrec so that'd depend on your trade off
+* He asked me how could I ignore blank spaces, tabs, carriage returns and I stated that I could use regexpes to solve the problem but then I would have two. Silence again. Tough crowd, I know.
 
 It could be the case that I am once again into [cognitive disonance](../the-day-you-became-a-better-developer/) why I didn't get into the next round. Up to you to decide. I solved the problem in a decent time frame, I asked the interviewer if he liked my solution and he claimed he had trouble finding how would it work, tried to explain to him but he was having really bad time understanding me. I had primed him to be against anything I will do. Then he poked me with running time, which I believe I did it wrongly but I felt at the time he just wanted to find a fake because on why not to pass me to the next round.
 
@@ -51,4 +52,4 @@ I hanged up and knew I wouldn't go into the next round. I don't hold any grudge 
 
 --
 
-You might want to [hire me](http://www.linkedin.com/in/lnramirez) because I've been laid off and now you know it's tough.
+You might want to [hire me](https://www.linkedin.com/in/lnramirez) because I've been laid off and now you know it's tough.
