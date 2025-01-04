@@ -1,6 +1,6 @@
 +++
 date = "2012-08-26T00:00:00"
-draft = "true"
+
 title = "Using Mongo and GridFS to store images"
 +++
 GridFS is Mongo specification to store files, claims to be better than file system but to me querying files it's what makes it lots better and it's very straight forward.

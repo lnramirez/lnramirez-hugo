@@ -1,6 +1,5 @@
 +++
 date = "2016-07-18T17:28:12-04:00"
-draft = true
 title = "And now we are using Hugo"
 
 +++

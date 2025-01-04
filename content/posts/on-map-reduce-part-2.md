@@ -1,6 +1,6 @@
 +++
 date = "2012-07-03T00:00:00"
-draft = "true"
+
 title = "On Map Reduce - Part 2"
 +++
 [On Map Reduce - Part 1](http://lnramirez.cloudfoundry.com/blog/4fedfebe4a14fb8d9f5e4e07/On%20Map%20Reduce%20-%20Part%201) I introduced the use of a map reduce to retrieve the latest entry on the blog. 

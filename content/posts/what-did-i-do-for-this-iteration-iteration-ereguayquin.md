@@ -1,6 +1,6 @@
 +++
 date = "2012-04-06T00:00:00"
-draft = "true"
+
 title = "What did I do for this iteration? Iteration: Ereguayquin"
 +++
 I did very few things actually. I finally publish my personal website. It's crazy that I've been programming for the last 10 year and never own a site. Crazy huh? 

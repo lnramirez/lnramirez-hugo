@@ -1,6 +1,5 @@
 +++
 date = "2014-04-28T00:00:00"
-draft = "true"
 title = "Composing Scala and Java futures"
 +++
 For the last two years I have gravitated towards Scala and Functional programming. My work in that area has been focused into concurrency and especially *AKKA* interacting with the *Atmosphere Framework*. 

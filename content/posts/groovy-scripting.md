@@ -1,6 +1,6 @@
 +++
 date = "2014-10-26T00:00:00"
-draft = "true"
+
 title = "Groovy scripting"
 +++
 I fix things now and then, more often tweak HTML and make scripts to do things.

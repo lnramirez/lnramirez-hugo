@@ -1,6 +1,5 @@
 +++
 date = "2013-10-27T00:00:00"
-draft = "true"
 title = "From Cloudfoundry to Openshift"
 +++
 The first time I deployed lnramirez at Cloudfoundry I told myself it wouldn't last forever. I knew it. It happened. On jun 5th I got an email telling me Cloudfoundry V1 was going to be closed on jun 30th and I could migrate my applications to V2 a.k.a. GoPivotal which will be a paid service. Bummer.
@@ -17,7 +16,7 @@ I knew I could deploy a J2EE web application at Google App Engine but MongoDb wa
 
 Amazon could be of use but doesn't come with out spending money, unless you run micro-instances which they come for free but only for a year. A co-worker told me I could create a new account every year but that seems a little bit stressful at least once a year.
 
-Finally Openshift would be my best solution but came with issues as well. In order to deploy a J2EE app you could use Openshift integration with Maven but I happened to use gradle for my building system. There must be a way to address all this but it would require certain work done. Once more, bummer.
+Finally, Openshift would be my best solution but came with issues as well. In order to deploy a J2EE app you could use Openshift integration with Maven but I happened to use gradle for my building system. There must be a way to address all this but it would require certain work done. Once more, bummer.
 
 After procrastinating for four months I told myself was enough. I was reading couple of links and out of the blue I bumped into an article explaining how to  [Run Gradle Builds on OpenShift](https://www.openshift.com/blogs/run-gradle-builds-on-openshift). Shekhar Gulati has become my personal savior, I won't bother explaining how I keep using gradle as build tool and being able to deploy in OpenShift, Shekhar does a pretty good job. 
 

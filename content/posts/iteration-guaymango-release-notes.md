@@ -1,6 +1,6 @@
 +++
 date = "2012-06-01T00:00:00"
-draft = "true"
+
 title = "Iteration Guaymango release notes"
 +++
 Iteration Guaymango Rulz!

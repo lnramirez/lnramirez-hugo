@@ -1,6 +1,6 @@
 +++
 date = "2012-06-09T00:00:00"
-draft = "true"
+
 title = "Huizúcar-SNAPSHOT"
 +++
 I was not planning deploying SNAPSHOTS but I was adding security functionality and felt so tempted to deploy it and I am so happy I did.

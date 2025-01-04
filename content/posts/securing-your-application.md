@@ -1,6 +1,6 @@
 +++
 date = "2014-08-08T00:00:00"
-draft = "true"
+
 title = "Securing your application"
 +++
 Back in june I access bajoneando only to find that I had a new entry on my blog, which I didn't remember doing it. When I checked the data it was empty, just had the date 6/2/2014. It occurred to me that somebody might have checked my password at github (it was hardcoded) and tried to add something. So I removed it and continue with my life. After a while it happened again. And well it just happened yesterday. *Sigh*

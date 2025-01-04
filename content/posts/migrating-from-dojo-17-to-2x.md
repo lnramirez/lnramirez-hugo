@@ -1,6 +1,6 @@
 +++
 date = "2013-02-07T00:00:00"
-draft = "true"
+
 title = "Migrating from Dojo 1.7 to 2.x"
 +++
 Throughout superbowl weekend I started migrating to a newer version of Dojo, especifically from Dojo 1.7.2 to 1.8.3. One resource that help me a lot through the processs was [Dojo 1.x to 2.0 migration guide](http://dojotoolkit.org/reference-guide/1.8/releasenotes/migration-2.0.html) I must say that I built my own Dojo version, it's supposed to optimize it to your needs but to tell you the truth I just did it for the sake of doing it. 

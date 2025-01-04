@@ -1,6 +1,6 @@
 +++
 date = "2012-06-29T00:00:00"
-draft = "true"
+
 title = "On Map Reduce - Part 1"
 +++
 One of the hype things nowadays is Map Reduce, I won't talk about it, but I'll leave you this [useful link](http://lmddgtfy.co.cc/?q=map+reduce) that you'll definitely find interesting.

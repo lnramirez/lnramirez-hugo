@@ -1,6 +1,5 @@
 +++
 date = "2013-02-08T00:00:00"
-draft = "true"
 title = "Bajoneando.com and Lolotiquillo 0.1.6 release"
 +++
 ###Bajoneando.com###

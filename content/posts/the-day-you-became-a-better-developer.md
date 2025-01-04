@@ -1,6 +1,6 @@
 +++
 date = "2017-03-03T14:00:00"
-draft = "true"
+
 title = "The day you became a better developer"
 +++
 

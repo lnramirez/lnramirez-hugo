@@ -1,6 +1,6 @@
 +++
 date = "2012-04-06T00:00:00"
-draft = "true"
+
 title = "Bajoneando meaning"
 +++
 Bajonear is a salvadorean-spanish verb that you use to refer to the action of eating after hours, probably after a party or a long day at work. You can use it when you are famished and heading towards to grab a bite, something like I am going to bajonear.

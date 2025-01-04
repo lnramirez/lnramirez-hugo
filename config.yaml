@@ -1,23 +1,48 @@
 ---
 contentdir: "content"
 layoutdir: "layouts"
-publishdir: "./../public"
+publishdir: "./public"
 indexes:
   category: "categories"
 baseurl: "https://www.bajoneando.com/"
-theme: hugo-cactus-theme
+theme: cactus
 title: "Bajoneando Blog"
 canonifyurls: true
-googleAnalytics: UA-81286834-1
+#googleAnalytics: UA-81286834-1
+services:
+  googleAnalytics:
+    ID: G-3HS8MDQLYK
 
+menu:
+  main:
+    - name: Home
+      url: /
+      weight: 1
+    - name: Writings
+      url: /posts
+      weight: 2
+    - name: Tags
+      url: /tags
+      weight: 3
+    - name: About
+      url: /about/about
+      weight: 4
 
 params:
+  colortheme: classic
+  showAllPostsArchive: false
   name: "Luis Ramirez Monterosa"
   description: "Bajoneando Blog"
   twitter: luisnramirez
   iconFont: mono-social
   bio: "Cyclist - Coffee Enthusiast - Functional Student"
+  googleAnalyticsAsync: false
+  mainSection: posts
+  showAllPostsOnHomePage: true
+  postsOnHomePage: 5
 
-social:
-    twitter: https://www.twitter.com/luisnramirez
-    github: https://github.com/lnramirez
+  social:
+    - name: twitter
+      link: https://www.twitter.com/luisnramirez
+    - name: github
+      link: https://github.com/lnramirez

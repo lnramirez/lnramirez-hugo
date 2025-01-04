@@ -1,6 +1,6 @@
 +++
 date = "2013-01-10T00:00:00"
-draft = "true"
+
 title = "You are only coming through in waves"
 +++
 Happy new year! it's been such a long time since last post but life has been crazier than ever, what a year I had in 2012, parenthood, two jobs, my blog I could go on all day but moving on. 
